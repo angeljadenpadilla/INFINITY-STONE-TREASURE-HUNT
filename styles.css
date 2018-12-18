@@ -1,0 +1,65 @@
+h1 {
+    color:#5f9ea0;
+}
+h2 {
+    color:#9932CC;
+}
+.xmark {
+    color:#C3CDE6;
+}
+.vormir {
+    color: #8b0000;
+}
+.boss {
+    color: #e9967a;
+}
+.victory {
+    color: #ffc40c;
+}
+body {
+    background: url("https://stmed.net/sites/default/files/galaxy-wallpapers-30826-3558648.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    text-align:center;
+}
+.arrr {
+    width:300px;
+    height: 250px;
+}
+.ship {
+    width:300px;
+    height: 250px;
+}
+.map {
+    display:none;
+    width:300px;
+}
+.cliff {
+    display:none;
+    width:300px;
+    height: 250px;
+    justify-content:center;
+}
+.yeet{
+    width:300px;
+    height: 300px;
+    }
+.gamora {
+    width:300px;
+}
+.snap {
+    height:300px;
+    width:300px;
+}
+.emo {
+    width:300px;
+}
+.stones {
+    width:300px;
+    height:300px;
+    display:none;
+}
+.end{
+    text-align: center;
+}
